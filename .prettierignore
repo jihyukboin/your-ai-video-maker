@@ -1,0 +1,7 @@
+# Generated files and dependencies are also excluded through .gitignore.
+package-lock.json
+public/
+**/*.min.js
+
+# Shared Playwright CLI skill; refresh from agent-skills instead of editing here.
+.agents/skills/playwright-cli/
